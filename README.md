@@ -1,4 +1,4 @@
-<img src="https://github.com/omkargade04/github-banner-gif.gif" >
+<img src="github-banner-gif.gif" >
 <h1 align="center">Hi 👋 Geeks, I'm Omkar Gade</h1>
 <h3 align="center">A Full Stack Developer from Pune Institute of Computer Technology</h3>
  
