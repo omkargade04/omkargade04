@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack Developer from Pune Institute of Computer Technology</h3>
  
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=%3E+Welcome%20to%20my%20GitHub%20profile...;%3E+Full+Stack+Developer;%3E+Competitive+Programmer;%3E+Problem+Solver" />  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=%3E+Welcome%20to%20my%20GitHub%20profile...;%3E+Full+Stack+Web+Developer;%3E+Competitive+Programmer;%3E+Problem+Solver" />  
 </div>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
