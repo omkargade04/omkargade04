@@ -51,9 +51,10 @@
 </p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awadhootk&show_icons=true&locale=en&layout=compact" alt="awadhootk" /></p>
-
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargade04&show_icons=true&locale=en&layout=compact" alt="omkargade04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&locale=en" alt="omkargade04" /></p>
+</div>
 <br>
 
 # Profile Visitors
