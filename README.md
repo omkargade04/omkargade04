@@ -51,6 +51,15 @@
 </p>
 
 <br>
+
+# Profile Visitors
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/omkargade04/count.svg?"  />
+</div>
+
+<br>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <p>
@@ -67,8 +76,4 @@
 
 ##
 
-# Profile Visitors
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/omkargade04/count.svg?"  />
-</div>
