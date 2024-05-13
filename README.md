@@ -50,6 +50,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=omkargade04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <br>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargade04&show_icons=true&locale=en&layout=compact" alt="omkargade04" /></p>
