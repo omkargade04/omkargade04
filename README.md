@@ -50,17 +50,20 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omkargade04&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📈 GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkargade04&count_private=true&show_icons=true&theme=gotham" alt="omkargade04" />
-
-<br>
-<div align="center">
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargade04&show_icons=true&locale=en&layout=compact" alt="omkargade04" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&locale=en" alt="omkargade04" /></p>
-</div>
+<p align=center>
+    <div align="center">
+        <a>
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=gotham&border_color=61dafb" alt="omkargade04" /> 
+        </a>
+    &nbsp; &nbsp; &nbsp;
+        <a>
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&&theme=gotham&border=61dafb" alt="omkargade04" />
+        </a>
+    </div> 
+    &nbsp; &nbsp;
+</p>
 <br>
 
 # Profile Visitors
