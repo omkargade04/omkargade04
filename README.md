@@ -26,45 +26,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,ts,reactjs,nextjs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,expressjs,nestjs,adonisjs,mongodb,postgresql,mysql,prisma,postman" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,adonis" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,gcp,firebase,supabase,git,github,vercel,vscode,figma" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,gcp,firebase,supabase" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma" />
-  </a>
-</p>
 
 ## 📈 GitHub Stats 
 
