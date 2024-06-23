@@ -32,13 +32,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,nodejs,expressjs,nestjs,adonis,mongodb,postgresql,mysql,prisma,postman" />
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,expressjs,nestjs,adonis,mongodb,postgresql,mysql,redis,prisma" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,gcp,firebase,supabase,git,github,vercel,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,gcp,firebase,supabase,git,github,postman,vercel,vscode,figma" />
   </a>
 </p>
 
