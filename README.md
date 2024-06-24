@@ -26,19 +26,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,ts,react,nextjs,redux" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,nodejs,expressjs,nestjs,adonis,mongodb,postgresql,mysql,redis,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,adonis,mongodb,postgresql,mysql,redis,prisma,firebase,supabase" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,gcp,firebase,supabase,git,github,postman,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,,git,github,postman,vscode,figma" />
   </a>
 </p>
 
