@@ -17,14 +17,19 @@ I'm a Full Stack Developer specializing in distributed systems and cloud archite
 
 ## Technical Expertise
 
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,java,python,go" alt="Programming Languages" />
+</p>
+
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" alt="Frontend Skills" />
 </p>
 
 ### Backend & Database Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,mongodb,redis" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,springboot,mysql,postgresql,mongodb,redis" alt="Backend Skills" />
 </p>
 
 ### Cloud & DevOps
@@ -34,25 +39,41 @@ I'm a Full Stack Developer specializing in distributed systems and cloud archite
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cursor,figma" alt="Development Tools" />
 </p>
 
-## Engineering Metrics
+## Github Metrics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&theme=github_dark&hide_border=true" />
-</div>
+<p align=center>
+    <div align="center">
+        <a>
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=gotham&border_color=61dafb" alt="omkargade04" /> 
+        </a>
+    &nbsp; &nbsp; &nbsp;
+        <a>
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&&theme=gotham&border=61dafb" alt="omkargade04" />
+        </a>
+    </div> 
+    &nbsp; &nbsp;
+</p>
 
 ## Professional Network
 
-Connect with me for engineering discussions and collaboration:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-gade-214b62253/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmkarGade04)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/OmkarGade04)
+<p>
+    <a href="https://www.linkedin.com/in/omkar-gade-214b62253/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    <a href="https://codeforces.com/profile/OmkarGade04" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3629285-3031869.png?f=webp&w=256" alt="Codeforces" height="40"
+            width="40" /></a>
+    <a href="https://twitter.com/OmkarGade04" target="blank"><img align="center"
+            src="https://static.toiimg.com/thumb/msid-102075304,imgsize-5578,width-400,resizemode-4/102075304.jpg" alt="X" height="40"
+            width="40" /></a>
+</p>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkargade04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/omkargade04/count.svg?"  />
 </div>
