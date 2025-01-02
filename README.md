@@ -1,6 +1,6 @@
 <div align="center">
   <img src="github-banner-gif.gif" >
-  <h1>Myself Omkar Gade</h1>
+  <h1>Hey! Myself Omkar Gade</h1>
   <h3>Full Stack Developer & Software Engineer</h3>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full+Stack+Developer;Devops;Systems+Architecture+Enthusiast;Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
@@ -45,8 +45,8 @@ I'm a Full Stack Developer specializing in backend and distributed systems. Curr
 ## Github Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&theme=gotham" alt="GitHub Streak"/>
 </div>
 
 ## Professional Network
