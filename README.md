@@ -1,17 +1,17 @@
 <div align="center">
   <img src="github-banner-gif.gif" >
-  <h1>Omkar Gade</h1>
-  <h3>Full Stack Developer & Systems Engineer</h3>
+  <h1>Myself Omkar Gade</h1>
+  <h3>Full Stack Developer & Software Engineer</h3>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full+Stack+Developer;Systems+Architecture+Specialist;Distributed+Systems+Engineer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full+Stack+Developer;Devops;Systems+Architecture+Enthusiast;Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ## About Me
 
-I'm a Full Stack Developer specializing in distributed systems and cloud architecture. Currently pursuing my degree at Pune Institute of Computer Technology, I focus on building scalable, resilient applications.
+I'm a Full Stack Developer specializing in backend and distributed systems. Currently pursuing my degree at Pune Institute of Computer Technology, I focus on building scalable, resilient applications.
 
 - 🔧 Working on cloud-native applications and microservices architecture
-- 🌱 Advancing my expertise in distributed systems and cloud computing
+- 🌱 Advancing my expertise in backend, distributed systems and cloud computing
 - 💡 Open to collaboration on enterprise-scale web applications
 - 🎯 Specialized in high-performance backend systems and API design
 
