@@ -44,18 +44,10 @@ I'm a Full Stack Developer specializing in backend and distributed systems. Curr
 
 ## Github Metrics
 
-<p align=center>
-    <div align="center">
-        <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=gotham&border_color=61dafb" alt="omkargade04" /> 
-        </a>
-    &nbsp; &nbsp; &nbsp;
-        <a>
-            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&&theme=gotham&border=61dafb" alt="omkargade04" />
-        </a>
-    </div> 
-    &nbsp; &nbsp;
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkargade04&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargade04&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ## Professional Network
 
