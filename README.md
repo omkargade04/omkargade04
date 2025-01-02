@@ -29,7 +29,7 @@ I'm a Full Stack Developer specializing in distributed systems and cloud archite
 
 ### Backend & Database Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,springboot,mysql,postgresql,mongodb,redis" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,spring,mysql,postgresql,mongodb,redis" alt="Backend Skills" />
 </p>
 
 ### Cloud & DevOps
@@ -39,7 +39,7 @@ I'm a Full Stack Developer specializing in distributed systems and cloud archite
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cursor,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Development Tools" />
 </p>
 
 ## Github Metrics
