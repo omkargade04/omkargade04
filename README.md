@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="github-banner-gif.gif" >
   <h1>Omkar Gade</h1>
   <h3>Full Stack Developer & Systems Engineer</h3>
   
